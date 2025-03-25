@@ -1,1 +1,1 @@
-console.log('Hello Word zio pera')
+console.log('Hello Boolean')
